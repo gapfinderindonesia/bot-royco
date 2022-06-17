@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# Dandi-Saputra
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -25,7 +25,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/gapfinderindonesia/bot-royco
 cd Hisoka-Morou
 npm install
 ```
@@ -47,7 +47,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone 
-cd Hisoka-Morou
+cd bot-royco
 npm install
 ```
 
